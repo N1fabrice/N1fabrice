@@ -2,8 +2,7 @@
 
 ### 🌟 About Me
 - 🚀 I’m a **Software engineer** passionate about **Backend development, AI, and open-source contributions**.
-- 💻 Building tools to **solve a particular problem, e.g., track habits, manage finances**.
-- 📚 I’m currently exploring **AI models, investing**.
+- 💻 Building tools to **solve a particular daily problems**.
 
 ### 🛠️ Tech Stack
 
