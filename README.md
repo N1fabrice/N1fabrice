@@ -2,7 +2,7 @@
 
 ### 🌟 About Me
 - 🚀 I’m a **Software engineer** passionate about **Backend development, AI, and open-source contributions**.
-- 💻 Building tools to **solve particular daily problems**.
+- 💻 I enjoy building tools that **help with daily challenges**.
 
 ### 🛠️ Tech Stack
 
